@@ -1,2 +1,2 @@
 # webdev_lab2
-Code for lab 2 
+This repository contains code for lab 2 
